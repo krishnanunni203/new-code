@@ -21,4 +21,5 @@ int main()
 { 
 int value= add(5,7);
 cout<<value;
+cout<<\n;
 }
